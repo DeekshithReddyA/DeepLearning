@@ -80,6 +80,9 @@ This repository contains the code and projects I completed as part of the Deep L
     pip install -r requirements.txt
     ```
 
+    **Note**:
+    The requirements.txt might not contain all the libraries necessary , make sure you double check.
+
 
 3. **Run the notebooks**:
     - Navigate to the `notebooks/` directory and open the Jupyter notebooks to explore the code and results for each topic.
